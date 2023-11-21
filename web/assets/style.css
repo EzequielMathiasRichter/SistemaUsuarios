@@ -1,0 +1,13 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 31/10/2023, 19:56:20
+    Author     : Aluno
+*/
+
+body {
+  background: #337d26;
+  background: linear-gradient(to right, #337d26, #8dbe7b);
+}
